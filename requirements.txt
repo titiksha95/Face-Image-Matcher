@@ -1,0 +1,6 @@
+opencv-python
+insightface==0.7.3
+onnxruntime
+numpy
+faiss-cpu
+tqdm
