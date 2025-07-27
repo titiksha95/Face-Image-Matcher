@@ -80,8 +80,4 @@ Press `s` to capture a frame from your webcam. It will match the detected face a
 - `matched_faces/` will contain copies of matched images.
 - For best results, use clear and front-facing images.
 
-## 🤖 Author
-
-👩‍💻 **Titiksha**  
-GitHub: [titiksha95](https://github.com/titiksha95)
 
